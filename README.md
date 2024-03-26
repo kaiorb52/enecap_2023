@@ -1,2 +1,5 @@
-# enecap_2023
-Encontro Nacional dos Estudantes do Campo de Públicas - São Paulo/2023
+# Encontro Nacional dos Estudantes do Campo de Públicas - São Paulo/2023
+
+Este repositório tem o intuito de armazenar e disponibilizar em formato de dados abertos os gráficos, dados e o artigo apresentados durante o Encontro Nacional dos Estudantes do Campo de Públicas em São Paulo no ano de 2023. O artigo em destaque neste repositório obteve o reconhecimento do 3º lugar no Prêmio Lice, destacando-se pela sua contribuição e relevância para o campo.
+
+O artigo destacado neste repositório também foi objeto de reconhecimento adicional. Como resultado de sua relevância, o trabalho resultou em uma entrevista concedida pelos autores nos canais de notícias da [Universidade Estadual do Norte Fluminense Darcy Ribeiro](https://uenf.br/portal/noticias/trabalho-da-uenf-sobre-permanencia-de-estudantes-na-universidade-e-premiado-2/). 
